@@ -23236,7 +23236,6 @@ refs 4
 kids 0
 OBJECT group
 name "cargoDoors"
-folded
 kids 2
 OBJECT group
 name "Animation"
@@ -23252,7 +23251,7 @@ anim_keyframe_count=2
 value0=0.000000
 angle0=0.000000
 value1=1.000000
-angle1=-28.000000
+angle1=-32.000000
 dataref=sim/flightmodel2/misc/canopy_open_ratio
 poly_os=0.000000
 texture "/Users/johnbray/Documents/GitHub/C101/objects/c101-fuse.png"
